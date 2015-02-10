@@ -1,2 +1,2 @@
 # Demo
-Just a demo respository for test.
+Just a demo respository.

@@ -1,2 +1,2 @@
 # Demo
-Just a demo respository.
+Demo respository for GlobalX test.
